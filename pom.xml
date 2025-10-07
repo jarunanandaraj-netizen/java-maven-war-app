@@ -32,17 +32,17 @@
  <repositories>
     <repository>
       <id>java-maven-war-app-group</id>
-      <url>172.31.33.40:8081/repository/java-maven-war-app-group/</url>
+      <url>http://172.31.33.40:8081/repository/java-maven-war-app-group/</url>
     </repository>
   </repositories>
     <distributionManagement>
     <snapshotRepository>
       <id>java-maven-war-app-snapshot</id>
-      <url>172.31.33.40:8081/repository/java-maven-war-app-snapshot/</url>
+      <url>http://172.31.33.40:8081/repository/java-maven-war-app-snapshot/</url>
     </snapshotRepository>
     <repository>
       <id>java-maven-war-app-releases</id>
-      <url>172.31.33.40:8081/repository/java-maven-war-app-releases/</url>
+      <url>http://172.31.33.40172.31.33.40:8081/repository/java-maven-war-app-releases/</url>
     </repository>
   </distributionManagement>
 </project>
